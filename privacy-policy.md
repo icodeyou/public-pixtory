@@ -17,6 +17,15 @@ The Application may automatically collect:
 - IP address and mobile operating system.
 - Internet browser type and usage patterns of the Application.
 
+### Face Data
+
+The Application does not collect, store, share, or use any face data.
+- No facial recognition, face tracking, or face-related biometric information is collected.
+- The Application does not analyze, process, or store any facial features, facial templates, or any information derived from faces.
+- No face data is ever shared with third parties.
+- No face data is retained in any form.
+- Only the unique identifier of a photo (e.g., file path or database ID) is stored to allow users to manage and organize their own photos. This identifier does not contain any biometric or facial information.
+
 ## Location Information
 
 ### Precise Real-Time Location
