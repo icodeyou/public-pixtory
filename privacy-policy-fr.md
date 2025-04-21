@@ -17,6 +17,15 @@ L'Application peut automatiquement collecter les informations suivantes :
 - Adresse IP et système d'exploitation de l'appareil mobile.
 - Type de navigateur Internet et comportements d'utilisation de l'Application.
 
+### Données Faciales
+
+L'Application ne collecte, ne stocke, ne partage ni n'utilise aucune donnée faciale.  
+- Aucune reconnaissance faciale, suivi du visage ou information biométrique liée au visage n'est collectée.  
+- L'Application n'analyse, ne traite ni ne stocke aucune caractéristique faciale, aucun modèle de visage, ni aucune information dérivée de visages.  
+- Aucune donnée faciale n'est jamais partagée avec des tiers.  
+- Aucune donnée faciale n'est conservée sous quelque forme que ce soit.  
+- Seul l'identifiant unique d'une photo est stocké afin de permettre aux utilisateurs de gérer et organiser leurs propres photos. Cet identifiant ne contient aucune information biométrique ou faciale.
+
 ## Informations sur la Localisation
 
 ### Localisation Précise en Temps Réel
