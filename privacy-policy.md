@@ -24,7 +24,7 @@ The Application does not collect, store, share, or use any face data.
 - The Application does not analyze, process, or store any facial features, facial templates, or any information derived from faces.
 - No face data is ever shared with third parties.
 - No face data is retained in any form.
-- Only the unique identifier of a photo (e.g., file path or database ID) is stored to allow users to manage and organize their own photos. This identifier does not contain any biometric or facial information.
+- Only the unique identifier of a photo is stored to allow users to manage and organize their own photos. This identifier does not contain any biometric or facial information.
 
 ## Location Information
 
