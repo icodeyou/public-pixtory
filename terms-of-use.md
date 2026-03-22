@@ -1,5 +1,9 @@
 # Terms & Conditions
 
+## Terms of use for Apple
+The iOS app Pixtory follows the standard license EULA :
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 ## Introduction
 These terms and conditions apply to the **Pixtory app** (hereinafter referred to as "Application") for mobile devices that was created by **I Code You** (hereinafter referred to as "Service Provider") as a Freemium service.
 
