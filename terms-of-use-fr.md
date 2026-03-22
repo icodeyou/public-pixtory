@@ -1,5 +1,9 @@
 # Conditions Générales d'Utilisation
 
+## Conditions Générales d'Apple
+L'application iOS suit les règles standardes de la licence EULA :
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 ## Introduction
 Ces conditions générales d'utilisation s'appliquent à l'application **Pixtory** (ci-après dénommée "Application") pour appareils mobiles, développée par **I Code You** (ci-après dénommé "Fournisseur de service") en tant que service Freemium.
 
