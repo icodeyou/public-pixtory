@@ -1,83 +1,76 @@
-# Politique de Confidentialité
+# Politique de confidentialité
+
+**Date d'entrée en vigueur :** 5 novembre 2026
 
 ## Introduction
-Cette politique de confidentialité s'applique à l'application **Pixtory** (ci-après dénommée "Application") pour appareils mobiles, développée par **I Code You** (ci-après dénommé "Fournisseur de service") en tant que service Freemium. Ce service est fourni "TEL QUEL".
+Cette politique explique quelles données l'application mobile **Pixtory** (l'« Application »), éditée par **I Code You** (l'« Éditeur »), collecte et pourquoi.
 
-## Collecte et Utilisation des Informations
+## Vos photos et vidéos restent sur votre appareil
+L'Application accède à votre photothèque uniquement pour vous permettre de la trier, de l'étiqueter et de la nettoyer. Vos photos, vidéos, tags et votre historique de tri sont stockés **uniquement sur votre appareil**. Ils ne sont jamais envoyés ni partagés.
 
-### Informations Fournies par l'Utilisateur
-L'Application recueille les informations que vous fournissez lors du téléchargement et de l'inscription. Bien que l'inscription ne soit pas obligatoire, certaines fonctionnalités de l'Application peuvent en dépendre.  
-- Le Fournisseur de service peut utiliser ces informations pour :
-  - Vous contacter avec des mises à jour importantes.
-  - Envoyer des notifications nécessaires ou des promotions marketing.
+## Aucun compte
+L'Application ne nécessite pas de compte. Elle crée un identifiant aléatoire et anonyme pour votre appareil, utilisé pour relier votre abonnement et vos statistiques d'utilisation.
 
-### Informations Collectées Automatiquement
-L'Application peut automatiquement collecter les informations suivantes :
-- Type d'appareil mobile et identifiant unique de l'appareil.
-- Adresse IP et système d'exploitation de l'appareil mobile.
-- Type de navigateur Internet et comportements d'utilisation de l'Application.
+## Données collectées
 
-### Données Faciales
+### Informations de profil facultatives
+Après votre abonnement, vous pouvez remplir un formulaire de profil avec votre **nom** et votre **adresse e-mail**. C'est facultatif. Nous les utilisons pour vous contacter au sujet de votre abonnement et vous aider si vous changez de téléphone.
 
-L'Application ne collecte, ne stocke, ne partage ni n'utilise aucune donnée faciale.  
-- Aucune reconnaissance faciale, suivi du visage ou information biométrique liée au visage n'est collectée.  
-- L'Application n'analyse, ne traite ni ne stocke aucune caractéristique faciale, aucun modèle de visage, ni aucune information dérivée de visages.  
-- Aucune donnée faciale n'est jamais partagée avec des tiers.  
-- Aucune donnée faciale n'est conservée sous quelque forme que ce soit.  
-- Seul l'identifiant unique d'une photo est stocké afin de permettre aux utilisateurs de gérer et organiser leurs propres photos. Cet identifiant ne contient aucune information biométrique ou faciale.
+### Données d'utilisation
+- Identifiant anonyme de l'appareil
+- Modèle de l'appareil, système d'exploitation, version et langue de l'Application
+- Événements liés à votre utilisation de l'Application (par exemple écrans consultés, fonctionnalités utilisées, abonnement souscrit)
+- Localisation approximative (pays, ville) déduite de votre adresse IP. Nous ne collectons jamais votre position précise.
 
-## Informations sur la Localisation
+### Rapports de plantage
+Lorsque l'Application plante ou rencontre une erreur, un rapport technique est envoyé avec le modèle de l'appareil, la version du système et le détail de l'erreur.
 
-### Localisation Précise en Temps Réel
-L'Application **ne collecte pas de données précises en temps réel** sur la localisation de votre appareil mobile.
+### Retours
+Si vous envoyez un message depuis l'écran Réglages, nous recevons son contenu avec votre identifiant anonyme.
 
-### Localisation Approximative
-L'Application peut collecter des données de localisation approximative pour :
-- Fournir un contenu personnalisé, des recommandations pertinentes et des services basés sur la localisation.
-- Améliorer l'Application grâce à des analyses et des tendances agrégées.
-- Partager des données de localisation anonymisées avec des services tiers pour des optimisations.
+### Achats
+Le statut de votre abonnement et votre historique d'achats, fournis par Apple ou Google. Nous ne voyons jamais vos informations de paiement.
 
-## Accès de Tiers
+### Notifications
+Si vous autorisez les notifications, un jeton est utilisé pour vous les envoyer.
 
-### Services Tiers
-Des données agrégées et anonymisées peuvent être partagées avec des services externes à des fins d'amélioration. L'Application utilise les services tiers suivants avec leurs propres politiques de confidentialité :
-- [Google Play Services](https://www.google.com/policies/privacy/)
-- [Sentry](https://sentry.io/privacy/)
-- [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+## Données faciales
+L'Application ne collecte, ne stocke, n'analyse et ne partage aucune donnée faciale. Aucune reconnaissance faciale ni information biométrique n'est utilisée.
 
-### Quand les Informations Peuvent Être Partagées
-Le Fournisseur de service peut divulguer vos informations :
-- **Si requis par la loi** (par exemple, des assignations ou des processus juridiques).
-- **Pour protéger des droits et la sécurité** (par exemple, en cas de fraude ou pour répondre à une demande gouvernementale).
-- **À des prestataires de services de confiance** travaillant pour leur compte, sous des accords stricts de confidentialité.
+## Utilisation des données
+- Fournir et débloquer les fonctionnalités Pixtory +
+- Comprendre l'utilisation de l'Application et l'améliorer
+- Corriger les bugs et les plantages
+- Répondre à vos retours et demandes d'assistance
+- Envoyer les notifications que vous avez autorisées
 
-## Droits d’Exclusion
-Pour arrêter la collecte de données, vous pouvez :
-- Désinstaller l'Application via votre appareil mobile ou la place de marché de l'application.
+Nous ne vendons pas vos données et ne les utilisons pas à des fins publicitaires.
 
-## Conservation et Gestion des Données
-- **Données Fournies par l'Utilisateur** : Conservées tant que l'Application est utilisée et pendant une période raisonnable par la suite.
-- **Données Collectées Automatiquement** : Conservées jusqu'à 24 mois, puis agrégées.
-- **Demandes de Suppression** : Contactez le Fournisseur de service à contact@pixtory.net pour demander la suppression des données.
+## Services tiers
+- [RevenueCat](https://www.revenuecat.com/privacy) : gestion des abonnements
+- [PostHog](https://posthog.com/privacy) : statistiques d'utilisation et retours
+- [Sentry](https://sentry.io/privacy/) : rapports de plantage
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy) : notifications
+- [Apple](https://www.apple.com/fr/legal/privacy/) et [Google Play](https://policies.google.com/privacy?hl=fr) : paiements
+
+Nous pouvons également divulguer des données si la loi l'exige ou pour protéger nos droits et la sécurité des utilisateurs.
+
+## Conservation des données
+- **Photos, vidéos et tags :** uniquement sur votre appareil, supprimés à la désinstallation de l'Application.
+- **Informations de profil :** conservées pendant votre abonnement, puis jusqu'à 12 mois.
+- **Données d'utilisation et rapports de plantage :** conservés jusqu'à 24 mois.
+
+## Vos droits
+Vous pouvez demander l'accès à vos données, leur rectification ou leur suppression, ou vous opposer à leur utilisation, en écrivant à support@ooverflow.com. Vous pouvez également introduire une réclamation auprès de la CNIL.
 
 ## Enfants
-- L'Application ne cible pas les enfants de moins de 9 ans.
-- Si des données personnelles d'un enfant de moins de 9 ans sont découvertes, elles seront immédiatement supprimées.
-- Les parents ou tuteurs peuvent contacter le Fournisseur de service à contact@pixtory.net pour assistance.
+L'Application ne s'adresse pas aux enfants de moins de 9 ans. Si nous apprenons que nous détenons des données personnelles d'un enfant de moins de 9 ans, nous les supprimons.
 
 ## Sécurité
-Le Fournisseur de service protège vos informations via :
-- Des mesures physiques, électroniques et procédurales.
-- Un accès limité aux personnels autorisés.
-Bien que des mesures soient prises, aucun système ne peut garantir une sécurité totale.
+Nous mettons en œuvre des mesures techniques et organisationnelles raisonnables pour protéger vos données, mais aucun système n'est totalement sûr.
 
-## Modifications de la Politique
-Cette politique de confidentialité peut être mise à jour périodiquement. Les changements seront publiés sur cette page. L'utilisation continue de l'Application implique l'acceptation des mises à jour.  
-**Date d'entrée en vigueur** : 2025-01-01
-
-## Consentement
-En utilisant l'Application, vous consentez au traitement de vos informations comme décrit dans cette politique, y compris leur collecte, stockage, utilisation et partage.
+## Modification de la politique
+Cette politique peut évoluer. Les modifications sont publiées sur cette page avec une nouvelle date d'entrée en vigueur.
 
 ## Contact
-Pour toute question ou préoccupation concernant cette politique de confidentialité, contactez le Fournisseur de service à :  
-**Email** : contact@pixtory.net
+**support@ooverflow.com**
