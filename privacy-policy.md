@@ -1,83 +1,76 @@
 # Privacy Policy
 
+**Effective date:** November 5, 2026
+
 ## Introduction
-This privacy policy applies to the **Pixtory app** (hereinafter referred to as "Application") for mobile devices, developed by **I Code You** (hereinafter referred to as "Service Provider") as a Freemium service. This service is provided "AS IS".
+This policy explains what data the **Pixtory** mobile app (the "App"), published by **I Code You** (the "Publisher"), collects and why.
 
-## Information Collection and Usage
+## Your photos and videos stay on your device
+The App reads your photo library only to let you sort, tag and clean it up. Your photos, videos, tags and sorting history are stored **only on your device**. They are never uploaded or shared.
 
-### User-Provided Information
-The Application acquires information you supply during download and registration. While registration is not mandatory, some features of the Application may require it.  
-- The Service Provider may use this information to:
-  - Contact you with important updates.
-  - Send required notices or marketing promotions.
+## No account
+The App does not require an account. It creates a random, anonymous identifier for your device, used to link your subscription and your usage statistics.
 
-### Automatically Collected Information
-The Application may automatically collect:
-- Mobile device type and unique device ID.
-- IP address and mobile operating system.
-- Internet browser type and usage patterns of the Application.
+## Data we collect
 
-### Face Data
+### Optional profile information
+After subscribing, you may fill in a profile form with your **name** and **email address**. This is optional. We use it to contact you about your subscription and to help you if you change phones.
 
-The Application does not collect, store, share, or use any face data.
-- No facial recognition, face tracking, or face-related biometric information is collected.
-- The Application does not analyze, process, or store any facial features, facial templates, or any information derived from faces.
-- No face data is ever shared with third parties.
-- No face data is retained in any form.
-- Only the unique identifier of a photo is stored to allow users to manage and organize their own photos. This identifier does not contain any biometric or facial information.
+### Usage data
+- Anonymous device identifier
+- Device model, operating system, app version and language
+- Events about how you use the App (for example screens viewed, features used, subscription started)
+- Approximate location (country, city) derived from your IP address. We never collect your precise location.
 
-## Location Information
+### Crash reports
+When the App crashes or hits an error, a technical report is sent with the device model, OS version and the error details.
 
-### Precise Real-Time Location
-The Application **does not collect precise real-time location** of your mobile device.
+### Feedback
+If you send a message from the Settings screen, we receive its content along with your anonymous identifier.
 
-### Approximate Location
-The Application may collect approximate location data to:
-- Provide personalized content, relevant recommendations, and location-based services.
-- Improve the Application through analytics and aggregated trends.
-- Share anonymized location data with third-party services for enhancements.
+### Purchases
+Your subscription status and purchase history, provided by Apple or Google. We never see your payment details.
 
-## Third-Party Access
+### Notifications
+If you allow notifications, a push token is used to send them to your device.
 
-### Third-Party Services
-Aggregated, anonymized data may be shared with external services for improvement purposes. The Application uses the following third-party services with their own Privacy Policies:
-- [Google Play Services](https://www.google.com/policies/privacy/)
-- [Sentry](https://sentry.io/privacy/)
-- [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+## Face data
+The App does not collect, store, analyze or share any face data. No facial recognition or biometric information is used.
 
-### When Information May Be Shared
-The Service Provider may disclose your information:
-- **As required by law** (e.g., subpoenas or legal processes).
-- **To protect rights and safety** (e.g., investigating fraud or responding to government requests).
-- **To trusted service providers** working on their behalf under strict confidentiality agreements.
+## How we use data
+- To provide and unlock Pixtory + features
+- To understand how the App is used and improve it
+- To fix bugs and crashes
+- To reply to your feedback and support requests
+- To send notifications you have allowed
 
-## Opt-Out Rights
-To halt data collection, you can:
-- Uninstall the Application via your mobile device or app marketplace.
+We do not sell your data and we do not use it for advertising.
 
-## Data Retention and Management
-- **User-Provided Data**: Retained as long as the Application is used and a reasonable time thereafter.
-- **Automatically Collected Data**: Stored for up to 24 months and then aggregated.
-- **Deletion Requests**: Contact the Service Provider at contact@pixtory.net for data deletion requests.
+## Third-party services
+- [RevenueCat](https://www.revenuecat.com/privacy): subscription management
+- [PostHog](https://posthog.com/privacy): product analytics and feedback
+- [Sentry](https://sentry.io/privacy/): crash reporting
+- [Firebase Cloud Messaging](https://firebase.google.com/support/privacy): notifications
+- [Apple](https://www.apple.com/legal/privacy/) and [Google Play](https://policies.google.com/privacy): payments
+
+We may also disclose data when required by law or to protect our rights and the safety of users.
+
+## Data retention
+- **Photos, videos and tags:** on your device only, deleted when you uninstall the App.
+- **Profile information:** kept while you are a subscriber, and up to 12 months after.
+- **Usage data and crash reports:** kept for up to 24 months.
+
+## Your rights
+You can request access to, correction of or deletion of your data, or object to its use, by writing to support@ooverflow.com. If you live in the European Union, you can also file a complaint with your data protection authority (in France, the CNIL).
 
 ## Children
-- The Application does not target children under 9 years of age.
-- If personal data from a child under 9 is discovered, it will be deleted immediately.
-- Parents or guardians can contact the Service Provider at contact@pixtory.net for assistance.
+The App is not directed at children under 9. If we learn that we hold personal data from a child under 9, we delete it.
 
 ## Security
-The Service Provider safeguards your information through:
-- Physical, electronic, and procedural measures.
-- Limited access to authorized personnel.
-While measures are taken, no system can guarantee complete security.
+We use reasonable technical and organizational measures to protect your data, but no system is completely secure.
 
-## Changes to the Policy
-This Privacy Policy may be updated periodically. Changes will be posted on this page. Continued use of the Application indicates acceptance of updates.  
-**Effective Date**: 2025-01-01
+## Changes to this policy
+This policy may be updated. Changes are posted on this page with a new effective date.
 
-## Consent
-By using the Application, you consent to the processing of your information as described in this policy, including collection, storage, usage, and sharing.
-
-## Contact Us
-For questions or concerns regarding this Privacy Policy, contact the Service Provider at:  
-**Email**: contact@pixtory.net
+## Contact
+**support@ooverflow.com**
