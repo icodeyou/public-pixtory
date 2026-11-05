@@ -1,42 +1,56 @@
-# Terms & Conditions
+# Terms of Use
 
-## Terms of use for Apple
-The iOS app Pixtory follows the standard license EULA :
+**Effective date:** November 5, 2026
+
+## Apple users
+On iOS, Pixtory is licensed under Apple's standard End User License Agreement (EULA):
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
+These terms complete the EULA. If they conflict, the EULA prevails.
+
 ## Introduction
-These terms and conditions apply to the **Pixtory app** (hereinafter referred to as "Application") for mobile devices that was created by **I Code You** (hereinafter referred to as "Service Provider") as a Freemium service.
+These terms apply to the **Pixtory** mobile app (the "App"), published by **I Code You** (the "Publisher"). By downloading or using the App, you agree to these terms.
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+## The App
+Pixtory helps you sort, tag and clean up the photos and videos stored on your device. Your photos and videos never leave your device: the App does not upload them anywhere.
 
-## Service Usage
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+You do not need an account to use the App.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advises against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+## Pixtory + subscription
+Some features require a **Pixtory +** subscription, offered as a monthly or yearly plan. The price and length of each plan are shown in the App before you buy.
 
-## Third-Party Services
-The Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
-- [Google Play Services](https://policies.google.com/terms)
+- **Payment:** charged to your Apple ID or Google Play account when you confirm the purchase.
+- **Free trial:** if a free trial is offered, you are charged at the end of the trial unless you cancel at least 24 hours before it ends.
+- **Auto-renewal:** the subscription renews automatically for the same length and price unless you cancel at least 24 hours before the end of the current period.
+- **Managing and cancelling:** in your App Store or Google Play account settings. Deleting the App does not cancel your subscription.
+- **Refunds:** handled by Apple or Google under their own policies.
+- **Restoring purchases:** use "Restore Purchases" in the App, signed in with the same store account.
+
+## Acceptable use
+You may not copy, modify, reverse engineer or redistribute the App, nor use its name or trademarks without permission. All intellectual property rights in the App remain with the Publisher.
+
+Do not jailbreak or root your device: it weakens its security and the App may stop working correctly.
+
+## Third-party services
+The App relies on third-party services, each with its own terms:
+- [Apple App Store](https://www.apple.com/legal/internet-services/itunes/)
+- [Google Play](https://play.google.com/about/play-terms/)
+- [RevenueCat](https://www.revenuecat.com/terms)
+- [PostHog](https://posthog.com/terms)
 - [Sentry](https://sentry.io/terms/)
-- [Mixpanel](https://mixpanel.com/legal/terms-of-use/)
+- [Firebase](https://firebase.google.com/terms)
 
-## Limitations of Liability
-The Service Provider does not assume responsibility for certain aspects:
-- Some functions of the Application require an active internet connection. The Service Provider is not responsible for issues caused by lack of Wi-Fi or exhausted data allowances.
-- You are responsible for any data usage charges incurred by using the Application outside Wi-Fi areas, including roaming charges. The Service Provider assumes you have obtained permission from the bill payer if applicable.
-- You are responsible for ensuring your device is charged. If your device runs out of battery and you cannot access the Application, the Service Provider is not liable.
+## Limitation of liability
+The App is provided "as is". The Publisher is not liable for:
+- photos or videos you delete with the App. Deleted items go to your device's "Recently Deleted" album, where you can recover them for a limited time;
+- issues caused by a missing internet connection, mobile data charges or a discharged device;
+- any loss resulting from reliance on the App, to the extent permitted by law.
 
-While the Service Provider strives to ensure the Application is updated and accurate, they rely on third-party information and accept no liability for any loss incurred due to reliance on the Application's functionality.
+## Updates and termination
+The Publisher may update, change or discontinue the App at any time. You may need to install updates to keep using it. If the App is discontinued, your rights to use it end.
 
-## Updates and Termination
-The Service Provider may update the Application to meet system requirements or improve functionality. You agree to download updates when offered. The Service Provider may also terminate the Application's use at any time without prior notice. Upon termination:
-- The rights and licenses granted to you in these terms will end.
-- You must cease using the Application and delete it from your device if necessary.
+## Changes to these terms
+These terms may be updated. Changes are posted on this page with a new effective date.
 
-## Changes to These Terms and Conditions
-The Service Provider may periodically update their Terms and Conditions. You are advised to review this page regularly. Any changes will be posted on this page.
-
-**Effective Date**: 2025-01-01
-
-## Contact Us
-If you have any questions or suggestions about the Terms and Conditions, contact the Service Provider at **contact@pixtory.net**.
+## Contact
+**support@ooverflow.com**
